@@ -1,5 +1,6 @@
 {
-  "name": "restaurante-q-delicia",
+  "version": 2,
   "public": true,
-  "cleanUrls": true
+  "cleanUrls": true,
+  "trailingSlash": false
 }
